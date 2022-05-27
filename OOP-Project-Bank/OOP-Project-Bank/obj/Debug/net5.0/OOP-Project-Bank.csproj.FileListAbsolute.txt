@@ -1,0 +1,16 @@
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/bin/Debug/net5.0/OOP-Project-Bank
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/bin/Debug/net5.0/OOP-Project-Bank.deps.json
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/bin/Debug/net5.0/OOP-Project-Bank.runtimeconfig.json
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/bin/Debug/net5.0/OOP-Project-Bank.runtimeconfig.dev.json
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/bin/Debug/net5.0/OOP-Project-Bank.dll
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/bin/Debug/net5.0/OOP-Project-Bank.pdb
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.AssemblyInfo.cs
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.dll
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/refint/OOP-Project-Bank.dll
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.pdb
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/OOP-Project-Bank.genruntimeconfig.cache
+/Users/mohamed/Projects/OOP-Project-Bank/OOP-Project-Bank/obj/Debug/net5.0/ref/OOP-Project-Bank.dll
